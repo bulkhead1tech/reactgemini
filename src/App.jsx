@@ -20,7 +20,7 @@ function App() {
       const formData = new FormData();
       formData.append('file', audiofile);
 
-      const response = await fetch("https://pythongemini-meob2q1jk-bulkhead1techs-projects.vercel.app/api/mich", {
+      const response = await fetch("https://pythongemini.vercel.app/api/mich", {
         method: "POST",
         body: formData,
         headers: {
