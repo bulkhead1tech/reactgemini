@@ -41,11 +41,11 @@ function App() {
     <div className='flex flex-col p-2 bg-black overflow-hidden h-screen w-screen bg-gradient-to-t from-teal-950 backdrop-blur-lg via-transparent to-transparent'>
      <div className='h-[10vh] w-full flex rounded-4xl shadow- justify-start bg-transparent px-5 -inset-2 backdrop-blur-3xl shadow-teal-800 shadow-lg text-teal-500 items-center'><h1 className='text-4xl font-bold'>M</h1><h4 className='text-xl text-white font-mono pt-2'>ichanikoi</h4></div>
      <div className='flex p-5 w-full h-full flex-col lg:w-full lg:h-full lg:flex-row'>
-     <div className='h-1/2 w-full flex flex-col  justify-center px-5 py-10 items-center md:h-full md:w-1/2 lg:h-full lg:w-1/2 md:flex-row lg:flex-row'> 
+     <div className='h-1/2 w-full flex flex-col  justify-center px-5 py-2 items-center md:h-full md:w-1/2 lg:h-full lg:w-1/2 md:flex-row lg:flex-row'> 
      <h1 className='text-white text-bold lg:font-bold text-8xl'>
   Be 
   <span className='text-teal-500'> Cyber </span> 
-  Secure....
+  Secure...
 </h1>
      </div>
      <div className='h-1/2 w-full p-5 flex flex-col md:h-full md:w-1/2 lg:h-full lg:w-1/2 lg:p-10  justify-center items-center'>
