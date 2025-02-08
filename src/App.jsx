@@ -48,7 +48,7 @@ function App() {
   Secure....
 </h1>
      </div>
-     <div className='h-1/2 w-full flex flex-col md:h-full md:w-1/2 lg:h-full lg:w-1/2 lg:p-10  justify-center items-center'>
+     <div className='h-1/2 w-full p-5 flex flex-col md:h-full md:w-1/2 lg:h-full lg:w-1/2 lg:p-10  justify-center items-center'>
      <div className='h-1/3 w-full px-5 py-5 text-red-500 flex items-center justify-center border-slate-400 border-2 border-solid text-4xl'>
      {first!=""?<>{first}</>:<>{"Loading..."}</>}
      </div>
